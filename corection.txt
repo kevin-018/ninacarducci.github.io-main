@@ -1,0 +1,63 @@
+                                performance 
+
+1 - Élément identifié comme "Largest Contentful Paint" 9 700 ms
+
+3- Activez la compression de texte Économies potentielles de 353 Kio
+
+4- Éliminez les ressources qui bloquent le rendu Économies potentielles de 730 ms
+
+5- Dimensionnez correctement les images Économies potentielles de 21 909 Kio
+
+6- Réduisez la taille des ressources CSS Économies potentielles de 39 Kio
+
+7- Réduisez la taille des ressources JavaScript Économies potentielles de 181 Kio
+
+8- Réduisez les ressources CSS inutilisées Économies potentielles de 192 Kio
+
+10- Réduisez les ressources JavaScript inutilisées Économies potentielles de 144 Kio
+
+11- La page a empêché la restauration du cache amélioré 1 motif d'échec
+
+12- Les éléments d'image ne possèdent pas de width ni de height explicites
+
+13- Évitez d'énormes charges utiles de réseau La taille totale était de 30 684 Kio
+
+-------------------------------------------
+                                valide 
+
+2- Diffusez des images aux formats nouvelle génération Économies potentielles de 11 046 Kio
+
+9- Encodez les images de manière efficace Économies potentielles de 1 955 Kio
+
+                                Accessibilité
+
+3- Les éléments de formulaire ne sont pas associés à des libellés
+
+5- Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées
+
+------------------------------------
+                                valide
+
+1- Des éléments d'image n'ont pas d'attribut [alt]
+
+2- Le document ne contient pas d'élément <title>
+
+4- Les liens n'ont pas de nom visible                                
+
+6- L'élément <html> n'a pas d'attribut [lang]
+
+7- Les éléments d'en-tête ne sont pas classés séquentiellement par ordre décroissant
+
+                                Bonne pratique
+
+1- Les erreurs de navigateur ont été enregistrées dans la console
+
+                                SEO 
+                            valide
+
+1- Le document ne contient pas d'élément <title>
+
+2- Le document ne contient pas d'attribut "meta description"
+
+3- Des éléments d'image n'ont pas d'attribut [alt]                               
+

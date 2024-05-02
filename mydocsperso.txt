@@ -1,0 +1,20 @@
+Trouvez vos mots-clés de base et regroupez-les en thèmes ;
+
+Décuplez vos idées de mots-clés ;
+
+Étudiez votre concurrence ;
+
+Analysez vos résultats  ;
+
+Trouvez des opportunités.
+
+Voici les problèmes les plus communs :
+
+Un blocage par le fichier robots.txt  : ce fichier permet de bloquer l'accès à certaines parties du site. Il faut donc vérifier qu'il laisse bien passer les moteurs de recherche ;
+
+Un problème sur la meta robots ;
+
+Un problème d'architecture de site web.
+
+Vérifiez que le site se charge relativement rapidement
+Le temps de chargement est un élément très important pour les visiteurs comme pour les moteurs de recherche.
