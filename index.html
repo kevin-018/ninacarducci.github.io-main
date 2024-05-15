@@ -3,6 +3,32 @@
 <html lang="fr">
   <title>Site Nina Carducci</title>
   <head>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Nina Carducci",
+        "image": "./assets/images/nina.webp",
+        "url": "https://ninacarducci.github.io/",
+        "priceRange: "50€ - 400€",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "68 avenue Alsace-Lorraine",
+          "addressLocality": "Bordeaux",
+          "postalCode": "33200",
+          "addressCountry": "FR"
+        },
+        "openingHours": [
+          "Mo-Fr 10:00-19:00",
+        ],
+        "description": "Professionnel de la photographie spécialisé dans les portraits et les événements.",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "Customer service",
+          "telephone": "+33-5-56-67-78-89",
+        }
+      }
+      </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Site Nina Carducci" />
     <link rel="stylesheet" href="./assets/bootstrap/bootstrap.css" />
@@ -76,12 +102,14 @@
           <div class="carousel-item active">
             <img
               src="./assets/images/slider/ryoji-iwata-wUZjnOv7t0g-unsplash.webp"
+              class="w-100"
               alt="ryoji-iwata"
             />
           </div>
           <div class="carousel-item">
             <img
               src="./assets/images/slider/nicholas-green-nPz8akkUmDI-unsplash.webp"
+              class="w-100"
               alt="nicholas-green"
             />
           </div>
@@ -277,11 +305,11 @@
               heures
             </p>
             <form action="" method="post">
-              <label>Nom</label>
+              <label for="nom">Nom</label>
               <input type="text" name="nom" id="nom" />
-              <label>Email</label>
+              <label for="email">Email</label>
               <input type="email" name="email" id="email" />
-              <label>Message</label>
+              <label for="message">Message</label>
               <textarea
                 name="message"
                 id="message"
